@@ -1,6 +1,6 @@
 # Vikram Maheshri
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+I am an applied microeconomist who studies social interactions, particularly in urban settings.
 
 ## Crowd-funded open-source software
 
