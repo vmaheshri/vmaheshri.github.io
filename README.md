@@ -3,6 +3,10 @@
 
 ![test] (avatar.jpg)
 
+<img src="avatar.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 I am an applied microeconomist who studies social interactions, particularly in urban settings.
 
 ## Crowd-funded open-source software
