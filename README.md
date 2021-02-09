@@ -8,7 +8,8 @@
 
 1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, revise and resubmit, *Econometrica*.
 
-1. “[Explaining Recent Trends in US School Segregation](/files/papers/CaetanoMaheshri_segregationUS.pdf),” with Gregorio Caetano, revise and resubmit, *Journal of Labor Economics*. ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
+1. “[Explaining Recent Trends in US School Segregation](/files/papers/CaetanoMaheshri_segregationUS.pdf),” with Gregorio Caetano, revise and resubmit, *Journal of Labor Economics*. 
+([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
 
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, under review
 
@@ -20,11 +21,13 @@
 
 3. “[Identifying Dynamic Spillovers in Criminal Behavior with a Causal Approach to Model Selection](/files/papers/CaetanoMaheshri_BrokenWindows.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2018, vol. 9, pp. 343-394. [Online Appendix](/files/papers/Caetano_Maheshri_BrokenWindows_Appendix.pdf)
 
-4. “[From Gallons to Miles: A Short Run Disaggregate Analysis of Automobile Travel and Externality Taxes](/files/papers/VMT tax.pdf),” with Ashley Langer and Clifford Winston, *Journal of Public Economics*, 2017, vol. 152, pp. 34-46. ([Houston Chronicle](https://www.chron.com/news/transportation/article/New-study-supports-distance-based-driving-tax-11253346.php), [HuffPost](https://www.huffpost.com/entry/a-quaint-notion-users-of-infrastructure-should-pay_b_596b9832e4b022bb9372b29f))
+4. “[From Gallons to Miles: A Short Run Disaggregate Analysis of Automobile Travel and Externality Taxes](/files/papers/VMT tax.pdf),” with Ashley Langer and Clifford Winston, *Journal of Public Economics*, 2017, vol. 152, pp. 34-46. 
+([Houston Chronicle](https://www.chron.com/news/transportation/article/New-study-supports-distance-based-driving-tax-11253346.php), [HuffPost](https://www.huffpost.com/entry/a-quaint-notion-users-of-infrastructure-should-pay_b_596b9832e4b022bb9372b29f))
 
 5. “[School Segregation and the Identification of Tipping Behavior](/files/papers/CaetanoMaheshri_tipping.pdf),” with Gregorio Caetano, *Journal of Public Economics*, 2017, vol. 148, pp.115-135. [Online Appendix](/files/papers/Caetano_Maheshri_tipping_appendix.pdf)
 
-6. “[Did the Great Recession Keep Bad Drivers Off the Road?](files/papers/auto safety business cycle),” with Clifford Winston, *Journal of Risk and Uncertainty*, 2016, vol. 52, pp. 1-26. ([Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/08/26/this-surprising-economic-trend-helps-make-the-case-for-driverless-cars/?noredirect=on&utm_term=.d39942e9d5e7))
+6. “[Did the Great Recession Keep Bad Drivers Off the Road?](files/papers/auto safety business cycle),” with Clifford Winston, *Journal of Risk and Uncertainty*, 2016, vol. 52, pp. 1-26. 
+([Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/08/26/this-surprising-economic-trend-helps-make-the-case-for-driverless-cars/?noredirect=on&utm_term=.d39942e9d5e7))
 
 7. “[A dynamic Duverger's law](files/papers/duverger.pdf),” with Jean Guillaume Forand, *Public Choice*, 2015, vol. 165 (3), pp. 285-306.
 
@@ -38,7 +41,8 @@
 
 ## Books
 
-1. First Thing We Do, Let's Deregulate all the Lawyers, with Clifford Winston and Robert Crandall, 2011, Brookings Institution Press. ([The Economist](https://www.economist.com/united-states/2011/09/03/not-enough-lawyers), [Amazon](https://www.amazon.com/First-Thing-Lets-Deregulate-Lawyers/dp/0815721900))
+1. First Thing We Do, Let's Deregulate all the Lawyers, with Clifford Winston and Robert Crandall, 2011, Brookings Institution Press. 
+([The Economist](https://www.economist.com/united-states/2011/09/03/not-enough-lawyers), [Amazon](https://www.amazon.com/First-Thing-Lets-Deregulate-Lawyers/dp/0815721900))
 
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
