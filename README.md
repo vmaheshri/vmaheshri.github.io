@@ -1,5 +1,3 @@
- 
-dd
 ## Interests
 - School and Neighborhood Segregation
 - Crime
