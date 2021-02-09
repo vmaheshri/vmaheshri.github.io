@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Vikram Maheshri
-description: Here is my [CV](/files/cv_maheshri.pdf). 
+description: Here is my <a href="/files/cv_maheshri.pdf">CV</a>.
+ Here is my [CV](/files/cv_maheshri.pdf). 
 
 logo: /avatar.jpg
