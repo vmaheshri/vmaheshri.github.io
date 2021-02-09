@@ -1,5 +1,5 @@
 I am an applied microeconomist who studies social interactions, particularly in urban settings.
-d
+
 Here is my [CV](/files/cv_maheshri.pdf).
 
 ## Interests
