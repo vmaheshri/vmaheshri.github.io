@@ -2,8 +2,6 @@ I am an applied microeconomist who studies social interactions, particularly in 
 
 Here is my [CV](/files/cv_maheshri.pdf).
 
-Test
-
 ## Interests
 - School and Neighborhood Segregation
 - Crime
