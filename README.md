@@ -18,11 +18,11 @@
 
 2. “[Gender Segregation Within Neighborhoods](/files/papers/CaetanoMaheshri_Foursquare.pdf),” with Gregorio Caetano, *Regional Science and Urban Economics*, 2019, vol. 17, pp.253-263. [Online Appendix](/files/papers/Homophily_Neighborhoods - Online Appendix.pdf) 
 
-3. “[Identifying Dynamic Spillovers in Criminal Behavior with a Causal Approach to Model Selection](/files/papers/CaetanoMaheshri_BrokenWindows.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2018, vol. 9, pp. 343-394. [Online Appendix](/files/papers/CaetanoMaheshri_BrokenWindows_Appendix.pdf)
+3. “[Identifying Dynamic Spillovers in Criminal Behavior with a Causal Approach to Model Selection](/files/papers/CaetanoMaheshri_BrokenWindows.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2018, vol. 9, pp. 343-394. [Online Appendix](/files/papers/Caetano_Maheshri_BrokenWindows_Appendix.pdf)
 
 4. “[From Gallons to Miles: A Short Run Disaggregate Analysis of Automobile Travel and Externality Taxes](/files/papers/VMT tax.pdf),” with Ashley Langer and Clifford Winston, *Journal of Public Economics*, 2017, vol. 152, pp. 34-46.
 
-5. “[School Segregation and the Identification of Tipping Behavior](/files/papers/CaetanoMaheshri_tipping.pdf),” with Gregorio Caetano, *Journal of Public Economics*, 2017, vol. 148, pp.115-135. [Online Appendix](/files/papers/CaetanoMaheshri_tipping_appendix.pdf)
+5. “[School Segregation and the Identification of Tipping Behavior](/files/papers/CaetanoMaheshri_tipping.pdf),” with Gregorio Caetano, *Journal of Public Economics*, 2017, vol. 148, pp.115-135. [Online Appendix](/files/papers/Caetano_Maheshri_tipping_appendix.pdf)
 
 6. “[Did the Great Recession Keep Bad Drivers Off the Road?](files/papers/auto safety business cycle),” with Clifford Winston, *Journal of Risk and Uncertainty*, 2016, vol. 52, pp. 1-26.
 
