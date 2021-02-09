@@ -4,6 +4,8 @@
 - Migration
 - Auto Safety
 
+j
+
 ## Working Papers
 
 1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, revise and resubmit, *Econometrica*.
