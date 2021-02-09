@@ -6,7 +6,7 @@
 
 ## Working Papers
 
-1. “[A Unified Empirical Framework to Study Segregation](/files/papers/unified framework segregation.pdf),” with Gregorio Caetano, revise and resubmit, *Econometrica*.
+1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, revise and resubmit, *Econometrica*.
 
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/CaetanoMaheshri_SegregationUS.pdf),” with Gregorio Caetano, revise and resubmit, *Journal of Labor Economics*.
 
