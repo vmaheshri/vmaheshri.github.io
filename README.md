@@ -11,7 +11,7 @@
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/CaetanoMaheshri_segregationUS.pdf),” with Gregorio Caetano, revise and resubmit, *Journal of Labor Economics*. 
 ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
 
-1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, under review
+1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea.pdf),” with Claudio Deiana and Giovanni Mastrobuoni.
 
 ## Publications
 
