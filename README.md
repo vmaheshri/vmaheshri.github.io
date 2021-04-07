@@ -15,9 +15,9 @@
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, forthcoming. 
 ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
 
-1. “[The Race Between Deterrence and Displacement: Theory and Evidence from Bank Robberies](/files/papers/deter displace.pdf),” with Giovanni Mastrobuoni, *Review of Economics and Statistics*, forthcoming.
+1. “[The Race Between Deterrence and Displacement: Theory and Evidence from Bank Robberies](/files/papers/deter displace.pdf),” with Giovanni Mastrobuoni, *Review of Economics and Statistics*, 2019, pp. 1-45.
 
-2. “[Gender Segregation Within Neighborhoods](/files/papers/CaetanoMaheshri_Foursquare.pdf),” with Gregorio Caetano, *Regional Science and Urban Economics*, 2019, vol. 17, pp.253-263. [Online Appendix](/files/papers/Homophily_Neighborhoods - Online Appendix.pdf) 
+2. “[Gender Segregation Within Neighborhoods](/files/papers/CaetanoMaheshri_Foursquare.pdf),” with Gregorio Caetano, *Regional Science and Urban Economics*, 2019, vol. 17, pp. 253-263. [Online Appendix](/files/papers/Homophily_Neighborhoods - Online Appendix.pdf) 
 
 3. “[Identifying Dynamic Spillovers in Criminal Behavior with a Causal Approach to Model Selection](/files/papers/CaetanoMaheshri_BrokenWindows.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2018, vol. 9, pp. 343-394. [Online Appendix](/files/papers/Caetano_Maheshri_BrokenWindows_Appendix.pdf)
 
