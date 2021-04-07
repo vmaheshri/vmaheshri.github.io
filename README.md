@@ -8,12 +8,12 @@
 
 1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, revise and resubmit, *Econometrica*.
 
-1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS.pdf),” with Gregorio Caetano, revise and resubmit, *Journal of Labor Economics*. 
-([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
-
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea.pdf),” with Claudio Deiana and Giovanni Mastrobuoni.
 
 ## Publications
+
+1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, forthcoming. 
+([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
 
 1. “[The Race Between Deterrence and Displacement: Theory and Evidence from Bank Robberies](/files/papers/deter displace.pdf),” with Giovanni Mastrobuoni, *Review of Economics and Statistics*, forthcoming.
 
