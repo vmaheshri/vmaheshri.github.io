@@ -8,7 +8,7 @@
 
 1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, under revision.
 
-1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, under review.
+1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, revise and resubmit, *American Economic Journal: Economic Policy*.
 
 ## Publications
 
