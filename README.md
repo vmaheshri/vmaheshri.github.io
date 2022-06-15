@@ -10,6 +10,9 @@
 
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, revise and resubmit, *American Economic Journal: Economic Policy*.
 
+2. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
+
+
 ## Publications
 
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, forthcoming Jan. 2023. 
