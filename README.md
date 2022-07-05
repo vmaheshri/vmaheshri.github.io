@@ -42,10 +42,15 @@
 
 11. “[An Exploration of the Offset Hypothesis Using Disaggregate Data: The Case of Airbags and Antilock Brakes](files/papers/offset.pdf),” with Clifford Winston and Fred Mannering, *Journal of Risk and Uncertainty*, 2006, vol. 32 (2), pp. 83-99.
 
-## Books
+## Books & Book Chapters 
 
 1. First Thing We Do, Let's Deregulate all the Lawyers, with Clifford Winston and Robert Crandall, 2011, Brookings Institution Press. 
 ([The Economist](https://www.economist.com/united-states/2011/09/03/not-enough-lawyers), [Amazon](https://www.amazon.com/First-Thing-Lets-Deregulate-Lawyers/dp/0815721900))
+
+1. The Effect of Reductions in Vehicle Miles Traveled on  Highway Fatalities and Congestion with Heterogeneous Motorists, with Clifford Winston, in [*Revitalizing a Nation: Competition and Innovation in the US Transportation System*](files/papers/RAN.pdf), 2022, Brookings Institution Press.
+
+1. Railroad Competition and Innovation, with Clifford Winston, in [*Revitalizing a Nation: Competition and Innovation in the US Transportation System*](files/papers/RAN.pdf), 2022, Brookings Institution Press.
+
 
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
