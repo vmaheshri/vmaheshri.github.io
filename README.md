@@ -44,7 +44,7 @@
 
 ## Books & Book Chapters 
 
-1. First Thing We Do, Let's Deregulate all the Lawyers, with Clifford Winston and Robert Crandall, 2011, Brookings Institution Press. 
+1. *First Thing We Do, Let's Deregulate all the Lawyers*, with Clifford Winston and Robert Crandall, 2011, Brookings Institution Press. 
 ([The Economist](https://www.economist.com/united-states/2011/09/03/not-enough-lawyers), [Amazon](https://www.amazon.com/First-Thing-Lets-Deregulate-Lawyers/dp/0815721900))
 
 1. "The Effect of Reductions in Vehicle Miles Traveled on  Highway Fatalities and Congestion with Heterogeneous Motorists", with Clifford Winston, in [*Revitalizing a Nation: Competition and Innovation in the US Transportation System*](https://s3.wp.wsu.edu/uploads/sites/308/2022/07/RAN-Competition-and-Innovation.pdf
