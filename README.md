@@ -15,7 +15,7 @@
 
 ## Publications
 
-1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, forthcoming Jan. 2023. 
+1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS_JOLE.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, forthcoming Jan. 2023. 
 ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
 
 1. “[The Race Between Deterrence and Displacement: Theory and Evidence from Bank Robberies](/files/papers/deter displace.pdf),” with Giovanni Mastrobuoni, *Review of Economics and Statistics*, 2021, vol. 103, pp. 547-562.
