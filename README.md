@@ -12,6 +12,8 @@
 
 2. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
+3. “[Schelling Meets Hotelling: Modeling Segregation Dynamics](/files/papers/Segregation.pdf),” with Gregorio Caetano, under revision.
+
 
 ## Publications
 
