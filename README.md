@@ -14,6 +14,8 @@
 
 3. “[Schelling Meets Hotelling: Segregation Dynamics and Policies](/files/papers/Segregation.pdf),” with Gregorio Caetano, under revision.
 
+4. "Towards Linking High-frequency Bias in CNN with Model Fairness,” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
+
 
 ## Publications
 
