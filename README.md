@@ -10,11 +10,13 @@
 
 1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
 
-2. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
+2. “[AI At the Wheel: The Effectivness of Autonomous Vehicle L1 Safety Features](/files/papers/L1DraftPaper.pdf),” with Clifford Winston.
 
-3. “Schelling Meets Hotelling: Segregation Dynamics and Policies,” with Gregorio Caetano.
+3. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).” 
 
-4. "Towards Linking High-frequency Bias in CNN with Model Fairness,” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
+4. “Schelling Meets Hotelling: Segregation Dynamics and Policies,” with Gregorio Caetano.
+
+5. "Towards Linking High-frequency Bias in CNN with Model Fairness,” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
 
 
 ## Publications
