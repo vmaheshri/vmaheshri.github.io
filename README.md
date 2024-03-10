@@ -10,7 +10,7 @@
 
 1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
 
-2. “[AI At the Wheel: The Effectivness of Autonomous Vehicle L1 Safety Features](/files/papers/L1DraftPaper.pdf),” with Clifford Winston.
+2. “[AI At the Wheel: The Effectivness of Advanced Driver Assistance Systems](/files/papers/L1DraftPaper.pdf),” with Clifford Winston.
 
 3. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).” 
 
