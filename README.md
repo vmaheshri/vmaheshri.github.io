@@ -8,9 +8,9 @@
 
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, forthcoming, *American Economic Journal: Economic Policy*.
 
-1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
+1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, under review.
 
-2. “[AI At the Wheel: The Effectivness of Advanced Driver Assistance Systems](/files/papers/ADAS paper.pdf),” with Clifford Winston.
+2. “[AI At the Wheel: The Effectivness of Advanced Driver Assistance Systems](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, under review.
 
 3. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).” 
 
