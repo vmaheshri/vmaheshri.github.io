@@ -1,25 +1,27 @@
 ## Interests
-- School and Neighborhood Segregation
-- Crime
+- Sorting and Segregation
 - Migration
 - Auto Safety
+- Crime
 
 ## Working Papers
 
-1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, forthcoming, *American Economic Journal: Economic Policy*.
+1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
 
-1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, under review.
+2. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
 
-2. “[AI At the Wheel: The Effectivness of Advanced Driver Assistance Systems](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, under review.
+3. "[Boundaries Generate Discontinuities in the Urban Landscape](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
 
-3. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).” 
+4. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
-4. “Schelling Meets Hotelling: Segregation Dynamics and Policies,” with Gregorio Caetano.
+5. “Schelling Meets Hotelling: Segregation Dynamics and Policies,” with Gregorio Caetano.
 
-5. "Towards Linking High-frequency Bias in CNN with Model Fairness,” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
+6. "Towards Linking High-frequency Bias in CNN with Model Fairness,” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
 
 
 ## Publications
+
+1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, *American Economic Journal: Economic Policy*, 2024, vol. 16, pp. 335-365.
 
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS_JOLE.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, 2023, vol. 41, pp. 175-203. 
 ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
