@@ -1,9 +1,8 @@
 ## Interests
 - Sorting and Segregation
+- Safety
 - Migration
-- Auto Safety
 - Algorithmic Bias
-- Crime
    
 ## Working Papers
 
