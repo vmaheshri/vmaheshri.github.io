@@ -2,8 +2,9 @@
 - Sorting and Segregation
 - Migration
 - Auto Safety
+- Algorithmic Bias
 - Crime
-
+   
 ## Working Papers
 
 1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
@@ -14,9 +15,9 @@
 
 4. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
-5. “Schelling Meets Hotelling: Segregation Dynamics and Policies,” with Gregorio Caetano.
-
 6. "Towards Linking High-frequency Bias in CNN with Model Fairness,” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
+
+7. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
 
 
 ## Publications
