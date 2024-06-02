@@ -14,7 +14,7 @@
 
 4. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
-6. "Towards Linking High-frequency Bias in CNN with Model Fairness,” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
+6. "[Towards Linking High-frequency Bias in CNN with Model Fairness](https://arxiv.org/abs/2302.03750),” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
 
 7. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
 
