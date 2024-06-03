@@ -6,7 +6,7 @@
    
 ## Working Papers
 
-1. “[A Unified Empirical Framework to Study Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
+1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
 
 2. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
 
@@ -56,10 +56,10 @@
 ([The Economist](https://www.economist.com/united-states/2011/09/03/not-enough-lawyers), [Amazon](https://www.amazon.com/First-Thing-Lets-Deregulate-Lawyers/dp/0815721900))
 
 1. "The Effect of Reductions in Vehicle Miles Traveled on  Highway Fatalities and Congestion with Heterogeneous Motorists", with Clifford Winston, in [*Revitalizing a Nation: Competition and Innovation in the US Transportation System*](https://s3.wp.wsu.edu/uploads/sites/308/2022/07/RAN-Competition-and-Innovation.pdf
-), under review, Brookings Institution Press.
+), 2003, Brookings Institution Press.
 
 1. "Railroad Competition and Innovation", with Clifford Winston, Jia Yan and Scott Dennis, in [*Revitalizing a Nation: Competition and Innovation in the US Transportation System*](https://s3.wp.wsu.edu/uploads/sites/308/2022/07/RAN-Competition-and-Innovation.pdf
-), under review, Brookings Institution Press.
+), 2003, Brookings Institution Press.
 
 
 <!--
