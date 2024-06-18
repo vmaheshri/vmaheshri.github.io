@@ -21,7 +21,7 @@
 
 ## Publications
 
-1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, *American Economic Journal: Economic Policy*, 2024, vol. 16, pp. 335-365. ([AEA Research Insights Podcast](https://www.aeaweb.org/research/search-rescue-migrants-consequences))
+1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, *American Economic Journal: Economic Policy*, 2024, vol. 16, pp. 335-365. ([AEA Research Highlights Podcast](https://www.aeaweb.org/research/search-rescue-migrants-consequences))
 
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS_JOLE.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, 2023, vol. 41, pp. 175-203. 
 ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
