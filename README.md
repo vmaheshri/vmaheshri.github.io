@@ -6,11 +6,11 @@
    
 ## Working Papers
 
-1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano.
+1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, revise and resubmit *Quantitative Economics*.
 
 2. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
 
-3. "[Boundaries Generate Widespread Discontinuities in the Urban Landscape](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
+3. "[Boundaries Generate Widespread Discontinuities in the Urban Landscape](/files/papers/Fragmentation.pdf)," with Kenneth Whaley, *under review*.
 
 4. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
