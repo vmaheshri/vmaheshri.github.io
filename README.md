@@ -8,16 +8,17 @@
 
 1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, Conditionally Accepted, *Quantitative Economics*.
 
-2. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
+3. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
 
-3. "[Boundaries Generate Widespread Discontinuities in the Urban Landscape](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
+4. "[Boundaries Generate Widespread Discontinuities in the Urban Landscape](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
 
-4. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
+5. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
 6. "[Towards Linking High-frequency Bias in CNN with Model Fairness](https://arxiv.org/abs/2302.03750),” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
 
 7. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
 
+8. "[A Critique of Automobile Safety Research Methodologies: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
 
 ## Publications
 
