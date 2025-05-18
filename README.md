@@ -10,7 +10,7 @@
 
 3. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
 
-4. "[Boundaries Generate Widespread Discontinuities in the Urban Landscape](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
+4. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
 
 5. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
