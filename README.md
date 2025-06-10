@@ -6,8 +6,6 @@
    
 ## Working Papers
 
-1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, Conditionally Accepted, *Quantitative Economics*.
-
 3. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
 
 4. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
@@ -22,6 +20,8 @@
 
 ## Publications
 
+1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, Forthcoming, *Quantitative Economics*.
+   
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, *American Economic Journal: Economic Policy*, 2024, vol. 16, pp. 335-365. ([AEA Research Highlights Podcast](https://www.aeaweb.org/research/search-rescue-migrants-consequences))
 
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS_JOLE.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, 2023, vol. 41, pp. 175-203. 
