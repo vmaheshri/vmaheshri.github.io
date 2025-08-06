@@ -6,9 +6,9 @@
    
 ## Working Papers
 
-3. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu.
+3. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, revise and resubmit *Journal of Law and Economics*.
 
-4. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
+4. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley, under review.
 
 5. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
@@ -16,11 +16,11 @@
 
 7. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
 
-8. "[A Critique of Automobile Safety Research Methodologies: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
+8. "[A Critique of Automobile Safety Research Methodologies: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston, under review.
 
 ## Publications
 
-1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, Forthcoming, *Quantitative Economics*.
+1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2025, vol. 16, pp. 1023-1057.
    
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, *American Economic Journal: Economic Policy*, 2024, vol. 16, pp. 335-365. ([AEA Research Highlights Podcast](https://www.aeaweb.org/research/search-rescue-migrants-consequences))
 
