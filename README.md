@@ -6,17 +6,17 @@
    
 ## Working Papers
 
-3. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, Conditionally Accepted, *Journal of Law and Economics*.
+1. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, Conditionally Accepted, *Journal of Law and Economics*.
 
-4. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
+1. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
 
-5. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
+1. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
-6. "[Towards Linking High-frequency Bias in CNN with Model Fairness](https://arxiv.org/abs/2302.03750),” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
+1. "[Towards Linking High-frequency Bias in CNN with Model Fairness](https://arxiv.org/abs/2302.03750),” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
 
-7. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
+1. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
 
-8. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
+1. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
 
 ## Publications
 
