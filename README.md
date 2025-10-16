@@ -16,7 +16,7 @@
 
 7. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
 
-8. "[A Critique of Automobile Safety Research Methodologies: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
+8. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
 
 ## Publications
 
