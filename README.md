@@ -20,7 +20,7 @@
    
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, *American Economic Journal: Economic Policy*, 2024, vol. 16, pp. 335-365. ([AEA Research Highlights Podcast](https://www.aeaweb.org/research/search-rescue-migrants-consequences))
 
-2. “[Linking Convolutional Kernel Size to Generalization Bias in Face Analysis CNNs],” Hao Liang, Josue Caro, Ankit Patel and Guha Balakrishnan, *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*, 2024, pp. 4705-4715.
+2. “[Linking Convolutional Kernel Size to Generalization Bias in Face Analysis CNNs](/files/papers/Liang_Linking_Convolutional_Kernel_Size_to_Generalization_Bias_in_Face_Analysis_WACV_2024_paper.pdf),” Hao Liang, Josue Caro, Ankit Patel and Guha Balakrishnan, *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*, 2024, pp. 4705-4715.
 
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS_JOLE.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, 2023, vol. 41, pp. 175-203. 
 ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
