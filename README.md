@@ -10,7 +10,7 @@
 
 1. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
-1. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
+1. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
 
 ## Publications
 
