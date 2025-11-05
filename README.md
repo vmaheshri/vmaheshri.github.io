@@ -6,23 +6,21 @@
    
 ## Working Papers
 
-1. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, Conditionally Accepted, *Journal of Law and Economics*.
-
 1. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
 
 1. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
-
-1. "[Towards Linking High-frequency Bias in CNN with Model Fairness](https://arxiv.org/abs/2302.03750),” Hao Liang, Josue Caro, Ankit Patel, Vikram Maheshri and Guha Balakrishnan.
-
-1. "Estimating Causal Effects of Semantic Image Distortions on Deep Feature Distances," Krishna Kabra, Kangqi Ni, Vikram Maheshri and Guha Balakrishnan.
 
 1. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era: Implications for Policymakers as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston.
 
 ## Publications
 
+1. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, Forthcoming, *Journal of Law and Economics*.
+
 1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2025, vol. 16, pp. 1023-1057.
    
 1. “[Migrants at Sea: Unintended Consequences of Search and Rescue Operations](/files/papers/migrants_at_sea_AEJ.pdf),” with Claudio Deiana and Giovanni Mastrobuoni, *American Economic Journal: Economic Policy*, 2024, vol. 16, pp. 335-365. ([AEA Research Highlights Podcast](https://www.aeaweb.org/research/search-rescue-migrants-consequences))
+
+2. “[Linking Convolutional Kernel Size to Generalization Bias in Face Analysis CNNs],” Hao Liang, Josue Caro, Ankit Patel and Guha Balakrishnan, *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*, 2024, pp. 4705-4715.
 
 1. “[Explaining Recent Trends in US School Segregation](/files/papers/segregationUS_JOLE.pdf),” with Gregorio Caetano, *Journal of Labor Economics*, 2023, vol. 41, pp. 175-203. 
 ([Education Exchange Podcast](https://www.educationnext.org/education-exchange-segregation-u-s-schools/))
