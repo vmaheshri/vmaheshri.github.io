@@ -6,6 +6,8 @@
    
 ## Working Papers
 
+1. "[Time Use and the Pursuit of Happiness](/files/papers/pursuit_of_happiness.pdf)," with Dionissi Aliprantis.
+   
 1. "[The Ubiquity of Tiebout Sorting Across Neighborhood Boundaries](/files/papers/Fragmentation.pdf)," with Kenneth Whaley.
 
 1. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
