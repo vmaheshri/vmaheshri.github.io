@@ -16,7 +16,7 @@
 
 ## Publications
 
-1. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS paper.pdf),” with Clifford Winston and Yidi Wu, Forthcoming, *Journal of Law and Economics*.
+1. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS Final.pdf),” with Clifford Winston and Yidi Wu, *Journal of Law and Economics*, 2026, vol. 69, pp. 387-411.
 
 1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2025, vol. 16, pp. 1023-1057.
    
