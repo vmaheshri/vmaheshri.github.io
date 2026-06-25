@@ -12,11 +12,11 @@
 
 1. “[Cultural Remittances and Diasporas](/files/papers/Cultural Remittances Diasporas.pdf).”
 
-1. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era](/files/papers/safety%20literature%20critique.pdf)," with Clifford Winston, accepted, *Journal of Risk and Uncertainty*.
-
 ## Publications
 
 1. “[AI At the Wheel: The Effectiveness of Advanced Driver Assistance Systems and its Implications for Policy](/files/papers/ADAS Final.pdf),” with Clifford Winston and Yidi Wu, *Journal of Law and Economics*, 2026, vol. 69, pp. 387-411.
+
+1. "[Methodological Challenges in Automobile Safety Research and Opportunities as we Enter the Autonomous Era](https://link.springer.com/epdf/10.1007/s11166-026-09496-8?sharing_token=5NP9uq-P4mhh1-IjPA_6qve4RwlQNchNByi7wbcMAY5UgP8yJYH-YDPCvm_rWs3l6wSJyyqQrRPIqMRFWsVfpZjftOPezquKDFI3BgtDkumAHzwGv0Ci1ckfoX0RRWl2cRQbT-5JyewKTx-XzV8VNJ5ecZZ8P6waT-6yrBCvEsI%3D)," with Clifford Winston, *Journal of Risk and Uncertainty*, 2026, vol. 62.
 
 1. “[A Unified Empirical Framework to Study Neighborhood Segregation](/files/papers/Segregation.pdf),” with Gregorio Caetano, *Quantitative Economics*, 2025, vol. 16, pp. 1023-1057.
    
